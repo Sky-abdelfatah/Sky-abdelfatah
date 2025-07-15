@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=40&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sama-Essam!+😎;" />
 </div>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 🌟 **About Me**
 - 🎓 Third-year student at Benha Faculty of Computers and Artificial Intelligence (2024–2027).
 - 💻 Passionate about Web Development with a creative and user-focused approach.
@@ -11,7 +13,9 @@
   - Web: HTML5, CSS3, JavaScript, Bootstrap, Angular
   - Concepts: OOP, SQL, API integration, responsive design
 - 🤝 Known for strong communication and collaboration skills that support both team success and individual growth.
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 🏆 **Experience & Involvement**
 
 - 🎯 **ECPC (Egyptian Collegiate Programming Contest)** – Alexandria  
@@ -34,7 +38,9 @@
 - 📱 **Flutter Course – GDG (2024)**  
   - Gained hands-on experience creating cross-platform mobile apps  
   - Focused on UI design, state management, and app deployment
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 - 📫 How to reach me **samaessam3358@gmail.com**
 
  
