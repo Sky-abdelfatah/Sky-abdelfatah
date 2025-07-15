@@ -35,12 +35,7 @@
 
 - 📫 How to reach me **samaessam3358@gmail.com**
 
-  <p align="center">
-    <a href="https://github.com/Sky-abdelfatah/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-         alt="https://github-readme-streak-stats.herokuapp.com/?user=Sky-abdelfatah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+ 
 <a href="https://github.com/Sky-abdelfatah/github-readme-stats">
     <img alt="Sky Abdelfatah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sky-abdelfatah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Sky-abdelfatah/github-readme-stats">
