@@ -39,10 +39,10 @@
   - Gained hands-on experience creating cross-platform mobile apps  
   - Focused on UI design, state management, and app deployment
 
-<br>
-<br>
-- 📫 How to reach me **samaessam3358@gmail.com**
 
+- 📫 How to reach me **samaessam3358@gmail.com**
+<br>
+<br>
  
 <a href="https://github.com/Sky-abdelfatah/github-readme-stats">
     <img alt="Sky Abdelfatah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sky-abdelfatah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
