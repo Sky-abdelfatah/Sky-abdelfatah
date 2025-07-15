@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-🌟 **About Me**
+🌟 *About Me*
 - 🎓 Third-year student at Benha Faculty of Computers and Artificial Intelligence (2024–2027).
 
 - 💻 Passionate about Web Development with a creative and user-focused approach.
