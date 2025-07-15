@@ -1,9 +1,37 @@
 <h1 align="center">Hi 👋, I'm Sama Essam</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Angular**
+🌟 **About Me**
+- 🎓 Third-year student at Benha Faculty of Computers and Artificial Intelligence (2024–2027).
+- 💻 Passionate about Web Development with a creative and user-focused approach.
+- 🌱 Actively improving skills in:
+  - Programming: C++, Python, Java, MIPS Assembly
+  - Web: HTML5, CSS3, JavaScript, Bootstrap, Angular
+  - Concepts: OOP, SQL, API integration, responsive design
+- 🤝 Known for strong communication and collaboration skills that support both team success and individual growth.
 
-- 💬 Ask me about **HTML,CSS**
+🏆 **Experience & Involvement**
+
+- 🎯 **ECPC (Egyptian Collegiate Programming Contest)** – Alexandria  
+  - Participated in a high-pressure coding competition, solving complex challenges under time constraints  
+  - Boosted problem-solving and teamwork skills in a fast-paced environment  
+
+- 🔒 **Cybersecurity Bootcamp – GDG (2025)**  
+  - Conducted penetration tests and vulnerability assessments using tools like Wireshark and Nmap  
+  - Competed in CTF challenges that strengthened team collaboration and strategic thinking  
+  - Expanded expertise in network protocols and threat mitigation techniques  
+
+- 📊 **Creativa Data Analysis Course (2025)**  
+  - Explored real-world datasets using tools like Python, Pandas, and Power BI  
+  - Developed insights through data visualization and statistical analysis  
+
+- 🧑‍💻 **Full Stack Development Course – Route (Ongoing)**  
+  - Building end-to-end applications with modern frontend and backend technologies  
+  - Learning to integrate APIs and deploy scalable web projects  
+
+- 📱 **Flutter Course – GDG (2024)**  
+  - Gained hands-on experience creating cross-platform mobile apps  
+  - Focused on UI design, state management, and app deployment
 
 - 📫 How to reach me **samaessam3358@gmail.com**
 
