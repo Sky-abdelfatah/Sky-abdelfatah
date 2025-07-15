@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-🌟 *About Me*
+🌟 <b>*About Me*</b>
 - 🎓 Third-year student at Benha Faculty of Computers and Artificial Intelligence (2024–2027).
 
 - 💻 Passionate about Web Development with a creative and user-focused approach.
@@ -19,7 +19,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-🏆 **Experience & Involvement**
+🏆 <b>*Experience & Involvement*</b>
 
 - 🎯 **ECPC (Egyptian Collegiate Programming Contest)** – Alexandria  
   - Participated in a high-pressure coding competition, solving complex challenges under time constraints  
