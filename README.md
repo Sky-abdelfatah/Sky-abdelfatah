@@ -42,8 +42,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-- 📫 How to reach me **samaessam3358@gmail.com**
-<br>
+
 
  
 <a href="https://github.com/Sky-abdelfatah/github-readme-stats">
