@@ -7,11 +7,14 @@
 </div>
 🌟 **About Me**
 - 🎓 Third-year student at Benha Faculty of Computers and Artificial Intelligence (2024–2027).
+
 - 💻 Passionate about Web Development with a creative and user-focused approach.
+  
 - 🌱 Actively improving skills in:
   - Programming: C++, Python, Java, MIPS Assembly
   - Web: HTML5, CSS3, JavaScript, Bootstrap, Angular
   - Concepts: OOP, SQL, API integration, responsive design
+    
 - 🤝 Known for strong communication and collaboration skills that support both team success and individual growth.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
