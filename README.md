@@ -38,9 +38,7 @@
 - 📱 **Flutter Course – GDG (2024)**  
   - Gained hands-on experience creating cross-platform mobile apps  
   - Focused on UI design, state management, and app deployment
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+
 <br>
 <br>
 - 📫 How to reach me **samaessam3358@gmail.com**
