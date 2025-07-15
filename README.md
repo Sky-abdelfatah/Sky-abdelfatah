@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=40&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋+💜;+I'm+Sama-Essam!+🎀+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=40&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+💜;+I'm+Sama-Essam!+🎀+✨;" />
 </div>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <div align="center">
